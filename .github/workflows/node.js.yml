@@ -35,4 +35,4 @@ jobs:
     - run: npm run build --if-present
     - run: npm test
     - run: npm publish
-      if: github.event_name == 'pull'
+      if: github.event_name == 'pull_request' or 'push'
