@@ -10,6 +10,6 @@ Tells fortune with just a button click. Checkout your Fortune at  https://remyap
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 ## About
-This is a CI/CD assignment done using a simple HTML file.I have a simple application that is deployed in cloud and have a test suite running. 
+This is a CI/CD assignment done using a simple HTML file.I have a simple application that is published and have a test suite running. 
 ## Credits
 To all the developers and Open source codes out there. 
