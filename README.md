@@ -1,5 +1,5 @@
 # devOps_fortuneTeller
-Tells fortune with every pull and push. 
+Tells fortune with just a button click. Checkout your Fortune at  https://remyapraveen.github.io/devOps_crystalBall/. 
 
 
 
