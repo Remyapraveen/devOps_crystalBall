@@ -9,7 +9,7 @@ Tells fortune with every pull and push.
 3. Commit your changes: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
-## History
-This is a CI/CD assignment done using a simple HTML file.
+## About
+This is a CI/CD assignment done using a simple HTML file.I have a simple application that is deployed in cloud and have a test suite running. 
 ## Credits
 To all the developers and Open source codes out there. 
