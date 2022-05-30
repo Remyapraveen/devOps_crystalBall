@@ -27,7 +27,7 @@ jobs:
       uses: actions/setup-node@v3
       with:
     
-          ref: ${{ github.event.workflow_run.head_branch }}
+         
           node-version: ${{ matrix.node-version }}
           cache: 'npm'
     
