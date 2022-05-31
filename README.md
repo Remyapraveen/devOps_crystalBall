@@ -13,3 +13,14 @@ Tells fortune with just a button click. Checkout your Fortune at  https://remyap
 This is a CI/CD assignment done using a simple HTML file.I have a simple application that is published and have a test suite running. 
 ## Credits
 To all the developers and Open source codes out there. 
+## Local Development 
+1. Clone this repository:
+https://github.com/Remyapraveen/devOps_crystalBall.git
+
+2.Install dependencies locally
+npm install
+
+3.Make changes
+ Make changes to the Index.html file and the git commit and git push
+ 
+4. Publish the Page using Github Pages from Settings 
