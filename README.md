@@ -18,11 +18,11 @@ To all the developers and Open source codes out there.
 git clone `https://github.com/Remyapraveen/devOps_crystalBall.git`
 
 2.Install dependencies locally
-npm install
+`npm install`
 
 3.Make changes
- Make changes to the Index.html file and the 
+   Make changes to the Index.html file 
  `git commit -m "Some changes"`
-  `git push`
+ `git push`
  
-4. Publish the Page using Github Pages from Settings 
+4.Publish the Page using Github Pages from Settings 
